@@ -1,9 +1,7 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Varela&family=Varela+Round&display=swap" rel="stylesheet">
+[Episode 3](https://www.youtube.com/watch?v=LelifxOrzvw&list=PLj-4DlPRT48lGpll2kC4wOsLj7SEV_lYu&index=3&ab_channel=LamaDev)
 
+Stop Point 1:16:47
 
-font-family: 'Josefin Sans', sans-serif;
-font-family: 'Lora', serif;
-font-family: 'Varela', sans-serif;
-font-family: 'Varela Round', sans-serif;
+https://i.guim.co.uk/img/media/03b248a38342922414013d948ea68909b83daa14/0_100_3000_1800/master/3000.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=c5b9bfe743f52324231b0f976d9c3a6f
+
+updating folder
